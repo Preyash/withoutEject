@@ -12,7 +12,7 @@ function App() {
       <form onSubmit={(e)=>submitForm(e)}>
       <p>Frstname: <input type="text"/> </p>
       <p>Lastname: <input type="text"/> </p>
-      <button type='submit'>Submit</button>
+      {/* <button type='submit'>Submit</button> */}
       </form>
     </div>
   );
